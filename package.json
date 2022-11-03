@@ -5,6 +5,9 @@
   "repository": "git@github.com:vargajacint/token-drip-vault.git",
   "author": "Jacint Varga <jacint.varga@dakai.io>",
   "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3"
+  },
   "devDependencies": {
     "@ethersproject/abi": "^5.4.7",
     "@ethersproject/providers": "^5.4.7",
